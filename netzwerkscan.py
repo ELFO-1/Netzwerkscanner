@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# erstellt von ELFO - erweitert und optimiert
+# erstellt von ELFO 
 
 import argparse
 import csv
