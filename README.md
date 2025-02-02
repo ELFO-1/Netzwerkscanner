@@ -5,13 +5,13 @@ Nwtzwerkscanner using nmap and visualation
   Ein kleiner Netzwerkscanner der nmap nutzt :
   
   # Normale Ausführung mit interaktiver Eingabe:
-sudo ./netzwerk_scanner.py
+sudo ./netzwerkscan.py
 
 # Mit automatischem Reporting:
-sudo ./netzwerk_scanner.py -o scan_ergebnisse
+sudo ./netzwerkscan.py -o scan_ergebnisse
 
 # Im Verbose-Modus:
-sudo ./netzwerk_scanner.py -v
+sudo ./netzwerk_scan.py -v
 
 
 Die generierten Dateien werden im aktuellen Verzeichnis gespeichert:
