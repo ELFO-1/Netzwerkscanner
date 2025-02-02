@@ -11,7 +11,7 @@ sudo ./netzwerkscan.py
 sudo ./netzwerkscan.py -o scan_ergebnisse
 
 # Im Verbose-Modus:
-sudo ./netzwerk_scan.py -v
+sudo ./netzwerkscan.py -v
 
 
 Die generierten Dateien werden im aktuellen Verzeichnis gespeichert:
